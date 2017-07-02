@@ -1,8 +1,8 @@
+package com.gerty.fft;
+
 import java.io.*;
 import java.lang.Math;
 import java.util.ArrayList;
-
-import static java.lang.Math.log;
 
 public class WavClass {
     public static double lg(double x) {

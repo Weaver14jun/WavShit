@@ -1,3 +1,5 @@
+package com.gerty.fft;
+
 public class WavFileException extends Exception
 {
 	public WavFileException()

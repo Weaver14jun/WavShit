@@ -1,4 +1,4 @@
-// Wav file IO class
+package com.gerty.fft;// Wav file IO class
 // A.Greensted
 // http://www.labbookpages.co.uk
 
